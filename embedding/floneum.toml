@@ -1,0 +1,5 @@
+name = "embedding"
+description = """
+ creates embeddings for text
+"""
+version = "0.1"

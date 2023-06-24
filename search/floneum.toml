@@ -1,0 +1,5 @@
+name = "search"
+description = """
+ searches an embedding database for the closest embedding
+"""
+version = "0.1"

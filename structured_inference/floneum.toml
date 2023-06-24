@@ -1,0 +1,5 @@
+name = "structured_inference"
+description = """
+ loads a model and runs it
+"""
+version = "0.1"

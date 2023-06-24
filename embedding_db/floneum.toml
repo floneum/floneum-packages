@@ -1,0 +1,5 @@
+name = "embedding_db"
+description = """
+ creates a database of embeddings
+"""
+version = "0.1"
