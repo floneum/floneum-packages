@@ -2,4 +2,5 @@ name = "inference"
 description = """
  loads a model and runs it
 """
-version = "0.1"
+package_version = "0.1"
+binding_version = "0.1"

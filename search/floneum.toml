@@ -2,4 +2,5 @@ name = "search"
 description = """
  searches an embedding database for the closest embedding
 """
-version = "0.1"
+package_version = "0.1"
+binding_version = "0.1"

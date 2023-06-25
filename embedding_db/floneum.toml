@@ -2,4 +2,5 @@ name = "embedding_db"
 description = """
  creates a database of embeddings
 """
-version = "0.1"
+package_version = "0.1"
+binding_version = "0.1"
