@@ -1,0 +1,6 @@
+name = "run_python"
+description = """
+ Runs a python script. Returns the value in the last line
+"""
+package_version = "0.1"
+binding_version = "0.1"

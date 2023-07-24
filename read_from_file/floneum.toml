@@ -1,0 +1,6 @@
+name = "read_from_file"
+description = """
+ Reads some text from a file at the given path (in the /sandbox directory)
+"""
+package_version = "0.1"
+binding_version = "0.1"

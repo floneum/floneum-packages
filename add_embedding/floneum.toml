@@ -1,6 +1,6 @@
 name = "add_embedding"
 description = """
- creates a database of embeddings
+ Adds a embedding to a database. The model used to generate the embedding and the model type used to create the database must be the same.
 """
 package_version = "0.1"
 binding_version = "0.1"

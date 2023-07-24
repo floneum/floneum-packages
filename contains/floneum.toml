@@ -1,0 +1,6 @@
+name = "contains"
+description = """
+ Checks if some text contains some other text. Returns true if the first text contains the second text.
+"""
+package_version = "0.1"
+binding_version = "0.1"

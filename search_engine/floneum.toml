@@ -1,6 +1,6 @@
 name = "search_engine"
 description = """
- Fetches the top article from wikipedia
+ Searches wikipedia, fetches the top article from wikipedia, and returns it as text
 """
 package_version = "0.1"
 binding_version = "0.1"
